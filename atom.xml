@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2020-12-28T00:46:59.013Z</updated>
+  <updated>2020-12-28T14:53:34.967Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -17,18 +17,18 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>Hello World</title>
+    <title>新年快乐。</title>
     <link href="http://example.com/2020/12/28/hello-world/"/>
     <id>http://example.com/2020/12/28/hello-world/</id>
     <published>2020-12-28T00:46:59.013Z</published>
-    <updated>2020-12-28T00:46:59.013Z</updated>
+    <updated>2020-12-28T14:53:34.967Z</updated>
     
-    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
+    <content type="html"><![CDATA[<p>Hi，你们终于来了。如果不出意外，你们应该在一个我还不知道的地方，一同读这段文字，经过了这么几天，正如人不能两次踏入同一条河流，我想那时的我与现在的我已经不再是同一个生命体了。所以，这段文字将不仅仅是留给你，也是留给那时的我的。所以，首先先祝你们俩新年快乐，玩得开心。为了区分开，不妨把那时的我称为Ridger吧。</p><p>Ridger，我想你为了这一刻，已经期待了许多个日日夜夜。我拥有你之前在12月28日前的记忆，请允许我让我搜寻一些细节，以帮助你回想起来：2019年的9月，在第一次团训后，你站到观众席前，希望能看清和你同组的同学的模样。他坐在最左边，格子衬衫，牛仔裤，这是你对他的第一印象。他的目光投向了你，在那一刻，你知道，有的东西似乎被改变了。你隐隐地感觉到，他似乎有些不一样，和你之前见到的任何一个男孩都不一样。</p><p>“你用豆瓣吗？“这是你迈出的第一步。你一页页地翻过他的豆瓣账号，希望能找到你们之间的共同话题；你深知，在这所学校，能遇到这样的他，概率等于在密度函数上取一个点。你何其有幸，能遇见他。</p><p>“一起吃饭吗？”我能感受到你的双腿在颤抖，但你还是迈出了第二步。“我和我朋友约好了”  你安慰自己，拒绝你，不过是很稀松平常的事。毕竟，你连人家的性取向都不知道呢。但，至此以后，你似乎再也没有在114见过他。他似乎也被你渐渐地忘却了，但我总能从你的记忆里搜出一星点儿的不甘，似乎是你错过了什么美好的事物。</p><p>又是一年的12月，肥肥突然提起了他，沉睡的记忆再次被唤醒，你眷然发现，在你的生命中，曾经路过过一位这样的男生。你试图用曾经熟练的话术去让他来帮帮忙，但却迟迟没有按下发送键。在那天晚上，他从未经历过这么严重的延迟：把话提到嗓子眼再到说出来，差了整整27分钟。你一度怀疑这是不是Matrix的bug，但这次，你会服下蓝药丸。你不想走。</p><p>很抱歉，窥探了你这么多的私人记忆。现在，我想和你身边的他聊聊天。你一定听他说过，他是一个「理想主义者」。我现在可以很明确的告诉你，这是屁话，他只不过是「间歇性理想主义者」罢了。他是个急性子，很多时候，他会被光怪陆离的周遭事物所吸引，从而放弃他当前的计划，例如，他Kindle里的书。许多时候，他读着读着，就跑去打LOL了；他的阅读书籍里有相当一部分是各类名人传记，他希望能站在聚光灯下，他从心底里渴望被大家所认可，被大家所接受。他甚至参与了各种的项目，希望从中获得一些走向「成功」的经验。但他也是一个理想主义者，他会在自己的项目岌岌可危时，选择自己负担它的全部费用；他仍在希望着能为这个世界做些什么；他也会为自己喜欢的男生设计一个这么神奇的小玩意儿。</p><p>他特别容易急躁，总是希望着把所有事情快快地办完。他写的代码从不写任何注释，因为他认为这样能尽快把它整完；结果被同学一顿吐槽，最后被迫重写；他从没有好好的打理过自己，因为他觉得这样减缓了他出门的速度；他也会急着和你表白，因为他就是真的很急。但这次，他希望能把这件重要的事情慢下来，他想在这件事情上试着做一个慢性子。</p><p>他也总是在自负与自卑的两极之间反复横跳。在他忙完了sosconf之后，他一度不可一世；但在他看到「3.96」这个绩点之后，他却开始想着怎样才能配得上你。</p><p>这儿理应有一个结尾，但我真的不知道怎么写。不如就把这件事情交给Ridger吧。</p><p>最后，我把我最喜欢的一段话送给你们：</p><p>我们其实一直在太空旅行</p><p>不存在过去，那只是一些顽固的记忆</p><p>不存在未来，那只是一场无序的梦境</p><p>也不存在当下</p><p>当下只是被反复咀嚼、却自相矛盾的苦情</p><p>新年不一定要有新气象</p><p>但希望</p><p>被时间锚定于此，那忽明忽暗的你</p><p>勇猛精进，不畏他言</p><p>以一切想象反抗操蛋生活的侵蚀</p><p>以尽数热忱回应没有温度的独行</p><p>喜贺行星地球，再度公转一周</p>]]></content>
     
     
       
       
-    <summary type="html">&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot;&gt;documentation&lt;/a&gt; for</summary>
+    <summary type="html">&lt;p&gt;Hi，你们终于来了。如果不出意外，你们应该在一个我还不知道的地方，一同读这段文字，经过了这么几天，正如人不能两次踏入同一条河流，我想那时的我与现在的我已经不再是同一个生命体了。所以，这段文字将不仅仅是留给你，也是留给那时的我的。所以，首先先祝你们俩新年快乐，玩得开心。为了区</summary>
       
     
     
